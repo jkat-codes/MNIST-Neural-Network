@@ -127,8 +127,6 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
 * [Andrew NG's Coursera](https://www.coursera.org/specializations/deep-learning?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_deep-learning_deeplearning-ai_FTCOF_specializations_pmax-nonNRL-within-14d&campaignid=20131140422&adgroupid=6490643383&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=6490643383&hide_mobile_promo&gad_source=1&gclid=Cj0KCQjwyL24BhCtARIsALo0fSCBvbPXyK-UNDgza3bn1VCtlNM43x1vqCe5jxeBLt6PB_Exz8ULKc0aAjLsEALw_wcB)
 * [DeepLearningAI YouTube Channel](https://www.youtube.com/@Deeplearningai)
 * [Samson Zhang's Neural Network from Scratch](https://www.youtube.com/watch?v=w8yWXqWQYmU)
