@@ -130,6 +130,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 * [Andrew NG's Coursera](https://www.coursera.org/specializations/deep-learning?utm_medium=sem&utm_source=gg&utm_campaign=B2C_NAMER_deep-learning_deeplearning-ai_FTCOF_specializations_pmax-nonNRL-within-14d&campaignid=20131140422&adgroupid=6490643383&device=c&keyword=&matchtype=&network=x&devicemodel=&adposition=&creativeid=6490643383&hide_mobile_promo&gad_source=1&gclid=Cj0KCQjwyL24BhCtARIsALo0fSCBvbPXyK-UNDgza3bn1VCtlNM43x1vqCe5jxeBLt6PB_Exz8ULKc0aAjLsEALw_wcB)
 * [DeepLearningAI YouTube Channel](https://www.youtube.com/@Deeplearningai)
 * [Samson Zhang's Neural Network from Scratch](https://www.youtube.com/watch?v=w8yWXqWQYmU)
+* [ReLu and Leaky ReLU Functions](https://www.digitalocean.com/community/tutorials/relu-function-in-python)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
